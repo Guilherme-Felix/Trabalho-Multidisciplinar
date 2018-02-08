@@ -4,7 +4,6 @@ from scipy.io import wavfile as wav
 from scipy.fftpack import fft
 import scipy.io.wavfile
 import numpy as np
-import pandas as pd
 import math
 
 """
